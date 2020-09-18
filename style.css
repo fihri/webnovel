@@ -1,0 +1,12 @@
+.navbar {
+  background-color: #c7eaf2;
+}
+
+.navbar-brand,
+.navbar .nav-item a {
+  color: rgb(131, 80, 80) !important;
+}
+
+.card:hover {
+  text-align: center;
+}
