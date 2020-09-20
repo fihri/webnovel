@@ -24,9 +24,10 @@
   opacity: 0;
   transition: 0.5s ease;
   background-color: #008cba;
+  cursor: pointer;
 }
 
-.col:hover .card-body {
+.card-body:hover {
   opacity: 1;
 }
 
