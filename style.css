@@ -40,3 +40,26 @@
   transform: translate(-50%, -50%);
   text-align: center;
 }
+
+/* @media only screen and (max-width: 320px) {
+  .navbar-brand,
+  .nav-link {
+    color: white !important;
+    text-shadow: 1px 1px 1px rgb(0, 0, 0, 0.7);
+  }
+  .nav-link {
+    text-transform: uppercase;
+  }
+  #novel .container .card {
+    margin-top: 5px;
+  }
+  #novel .container .col {
+    width: 30px;
+    height: 30px;
+    margin-bottom: 5px;
+  }
+  #novel .container img {
+    width: 70px;
+    height: 60px;
+  }
+} */
