@@ -50,17 +50,17 @@
   .nav-link {
     text-transform: uppercase;
   }
-  #novel .container .card {
+  .novel .container .card {
     width: 30px;
     height: 30px;
     margin-top: 5px;
   }
-  #novel .container .col {
+  .novel .container .col {
     width: 30px;
     height: 30px;
     margin-bottom: 5px;
   }
-  #novel .container img {
+  .novel .container img {
     width: 70px;
     height: 60px;
   }
